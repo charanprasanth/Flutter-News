@@ -1,6 +1,15 @@
-# flutternews
+# Flutter News App
 
-A new Flutter project.
+A simple news app made in flutter to demonstrate the usage of "http" package
+
+## Sample Screenshot
+
+  <img src="https://github.com/charanprasanth/Flutter-News/blob/master/sample/pic1.jpg" height="300"></img>
+  <img src="https://github.com/charanprasanth/Flutter-News/blob/master/sample/pic2.jpg" height="300"></img>
+  
+## API Details
+
+  - [newsapi.org](https://newsapi.org)
 
 ## Getting Started
 
